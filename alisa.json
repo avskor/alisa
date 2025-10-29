@@ -3,7 +3,7 @@
   "wake_word": "Алиса",
   "author": "Russian MicroWakeWord Trainer",
   "website": "https://github.com/rhasspy/piper-sample-generator",
-  "model": "Алиса.tflite",
+  "model": "alisa.tflite",
   "trained_languages": [
     "ru"
   ],
